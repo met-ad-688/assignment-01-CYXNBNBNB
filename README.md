@@ -2,5 +2,5 @@
 # Assignment-01
 count_github.py: Count the number of lines containing the word "python" in the extracted CSV files from 'questions.csv' and 'question_tags.csv'.
 count_python.sh: A shell script that counts the number of lines containing the word "python" in the extracted CSV files.
-Yuxuan Chen 
-U76697870
+# Yuxuan Chen 
+# U76697870
